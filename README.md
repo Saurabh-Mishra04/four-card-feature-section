@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [saurabh-mishra04.github.io](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-site-using-boxsizing-and-flex-box-four-card-preview-yGjdouIW5)
+- Live Site URL: [saurabh-mishra04.github.io](https://saurabh-mishra04.github.io/four-card-feature-section/)
 
 ## My process
 
